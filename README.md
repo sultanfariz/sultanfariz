@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 
 
 <!-- <img align="left" alt="sultanfariz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sultanfariz&show_icons=true&hide_border=true" /> -->
+
+<!-- lemme fool y'all -->
