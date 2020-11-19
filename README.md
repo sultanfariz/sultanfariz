@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=sultanfariz&color=blue)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanfariz&show_icons=true&locale=en&layout=compact" alt="sultanfariz" />
+
 <!--
 **sultanfariz/sultanfariz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
