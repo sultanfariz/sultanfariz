@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=sultanfariz&color=blue)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sultanfariz" alt="sultanfariz" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanfariz&show_icons=true&locale=en&layout=compact" alt="sultanfariz" />
 
 <!--
