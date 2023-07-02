@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sultanfariz&theme=discord" alt="sultanfariz" /></a> </p>
 
-![](https://leetcard.jacoblin.cool/kafri8889?border=0&radius=20&ext=activity)
+![](https://leetcard.jacoblin.cool/sultanfariz?border=0&radius=20&ext=activity)
 
 <!--
 ### Hi there 👋
